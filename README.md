@@ -6,7 +6,7 @@ The Answers asked in the assesmnet have been answered in this notebook only.
 Problem: Predict purchase amount.<br>
 
 ## Data Overview<br>
-Dataset has 537577 rows (transactions) and 12 columns (features) as described below:<br>
+Dataset has 550068 rows (transactions) and 12 columns (features) as described below:<br>
 
 User_ID: Unique ID of the user. There are a total of 5891 users in the dataset.<br>
 Product_ID: Unique ID of the product. There are a total of 3623 products in the dataset.<br>
